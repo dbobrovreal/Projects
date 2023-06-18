@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as ttk
-from Calculator.get import calc
+from get import calc
 
 def button_numbers(frame1):
     button = ["7", "8", "9", "*",
