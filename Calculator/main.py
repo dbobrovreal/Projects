@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter as tk
-from Calculator.button import button_numbers
-from Calculator.get import field
+from button import button_numbers
+from get import field
 
 window = tk.Tk()
 window.title("Калькулятор")
